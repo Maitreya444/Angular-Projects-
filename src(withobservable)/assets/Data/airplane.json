@@ -1,0 +1,11 @@
+[
+     {"name":"Airbus A320","type":"NarrowBody","company":"Indigo","age":10 },
+     {"name":"Airbus A320","type":"NarrowBody","company":"AirIndia","age":11 },
+     {"name":"Airbus A320","type":"NarrowBody","company":"AirAsia","age":5 },
+     {"name":"Airbus A220","type":"NarrowBody","company":"JetAirways","age":1 },
+     {"name":"Boeing 737","type":"NarrowBody","company":"SpiceJet","age":7 },
+     {"name":"Boeing 737 MAX","type":"NarrowBody","company":"FlyDubai","age":3 },
+     {"name":"Boeing 737 MAX","type":"NarrowBody","company":"AksaAir","age":2 },
+     {"name":"Boeing 777","type":"WideBody","company":"AirIndia","age":13 },
+     {"name":"Boeing 747","type":"WideBody","company":"AirIndia","age":23 }
+]
