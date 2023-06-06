@@ -1,0 +1,20 @@
+<div style="text-align: center;">
+     <h1>Welcome To My Ecommerce Website</h1>
+</div>
+
+<img src="../assets/images/1.webp" width="200px">
+
+<div class="productname">{{productname}}</div>
+<p style="color:blue;">${{productprice}}</p>
+
+
+<img src="../assets/images/2.webp" width="200px">
+<div class="details">
+     <div>{{product?.name}}</div>
+     <p style="color:red;">${{product?.oldprice}}</p>
+
+     <p style="color:green;">${{product?.price}}</p>
+
+     <button (click)="product?.InCart ==0"(click)="incrementInCart()">Add to cart +</button>
+
+</div>
